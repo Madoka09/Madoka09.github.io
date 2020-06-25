@@ -1,0 +1,13 @@
+{
+    "Burger Shot":[{
+        "address": "Plaza Galas Blvd. Felipe Pescador 1900",
+        "schedule": "Horario: 9:00AM ~ 11:00PM",
+        "tel": "Teléfono: (618)0000-000"
+    }],
+    "McLovin":[{
+        "address": "Plaza Galas Blvd. Felipe Pescador 1969",
+        "schedule": "Horario: 8:30AM ~ 00:00PM",
+        "tel": "Teléfono: (618)1111-111"
+    }]
+
+}
