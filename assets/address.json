@@ -8,6 +8,9 @@
         "address": "Plaza Galas Blvd. Felipe Pescador 1969",
         "schedule": "Horario: 8:30AM ~ 00:00PM",
         "tel": "Teléfono: (618)1111-111"
+    },
+    "Dummy":{
+        "address": "null"
     }
 
 }
